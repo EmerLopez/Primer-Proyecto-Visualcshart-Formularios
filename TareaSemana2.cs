@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Primer_Proyecto_Visualcshart_Formularios
 {
-    public partial class Form1 : Form
+    public partial class TareaSemana2 : Form
     {
-        public Form1()
+        public TareaSemana2()
         {
             InitializeComponent();
         }

@@ -16,7 +16,7 @@ namespace Primer_Proyecto_Visualcshart_Formularios
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new TareaSemana2());
         }
     }
 }
