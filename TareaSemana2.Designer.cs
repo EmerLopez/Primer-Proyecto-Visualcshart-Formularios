@@ -41,6 +41,7 @@ namespace Primer_Proyecto_Visualcshart_Formularios
             this.button1.TabIndex = 0;
             this.button1.Text = "Haz Clic Aqui";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // textBox1
             // 
@@ -51,6 +52,7 @@ namespace Primer_Proyecto_Visualcshart_Formularios
             this.textBox1.TabIndex = 1;
             this.textBox1.Text = "INTEGRANTES:\r\n1. Edwin Lopez\r\n2. Christian Montenegro\r\n3. Nilderson Chavez\r\n4. Di" +
     "ego Zepeda\r\n5. Henry Sanchez\r\n6. Fernando Lopez\r\n";
+            this.textBox1.Visible = false;
             // 
             // TareaSemana2
             // 

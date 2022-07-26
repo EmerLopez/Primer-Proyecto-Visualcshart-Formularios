@@ -16,5 +16,10 @@ namespace Primer_Proyecto_Visualcshart_Formularios
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            textBox1.Visible = true;
+        }
     }
 }
